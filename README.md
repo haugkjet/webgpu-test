@@ -10,3 +10,7 @@ visibility: GPUShaderStage.VERTEX | GPUShaderStage.COMPUTE,
 
 visibility: GPUShaderStage.VERTEX |GPUShaderStage.FRAGMENT | GPUShaderStage.COMPUTE,
 
+
+Demo (need browser that support webgpu)
+
+https://webgpu-test.vercel.app/
